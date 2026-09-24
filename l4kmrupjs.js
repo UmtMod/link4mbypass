@@ -1,18 +1,3 @@
-// ==UserScript==
-// @name         MINH PHƯƠNG AUTO LINK4M
-// @namespace    minhphuong.link4m
-// @version      28.2
-// @description  Tu dong dien ma code khi ve link4m
-// @author       MINH PHƯƠNG
-// @match        *://*/*
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_deleteValue
-// @grant        GM_addStyle
-// @run-at       document-idle
-// @noframes
-// ==/UserScript==
-
 (function(){
 /* eslint-disable no-eval */
 var A58="123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";
